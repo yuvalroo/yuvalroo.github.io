@@ -4,6 +4,12 @@
     
         
         <url>
+            <loc>http://localhost:1313/blog/</loc>
+        </url>
+        
+    
+        
+        <url>
             <loc>http://localhost:1313/portfolio/</loc>
         </url>
         
